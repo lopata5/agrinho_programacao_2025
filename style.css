@@ -8,3 +8,9 @@ body {
 body {
   font-family: Arial, sans-serif;
 }
+.container {
+  text-align: center;
+}
+
+img {
+  display: inline-block;
