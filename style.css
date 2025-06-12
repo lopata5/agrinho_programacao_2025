@@ -6,7 +6,7 @@ body {
   background-color: rgb(255, 251, 129);
 }
 body {
-  font-family: Arial', Arial, sans-serif, sans-serif;
+  font-family: Arial';
 }
 .container {
   text-align: center;
@@ -18,3 +18,7 @@ img {
  footer {
     background-color: rgba(234, 11, 11, 0.898);
     text-align: center;
+
+ header {
+  background-color: white;
+  color:black;
