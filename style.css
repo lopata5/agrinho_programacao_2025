@@ -17,7 +17,9 @@ img {
 
  footer {
     background-color: rgba(234, 11, 11, 0.898);
-    text-align: center;
+    color: black;
+    padding: 20px;
+    
 
  header {
   background-color: white;
