@@ -16,9 +16,9 @@ img {
   display: inline-block;
 
  footer {
-    background-color: rgba(234, 11, 11, 0.898);
-    color: black;
-    padding: 20px;
+    <background-color: rgba(234, 11, 11, 0.898);>
+    <color: black;>
+    <padding: 20px;>
     
 
  header {
